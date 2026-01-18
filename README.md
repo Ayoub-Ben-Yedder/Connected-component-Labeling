@@ -34,4 +34,8 @@ gcc ccl.c -o ccl
 
 [Disjoint-set data structure - Wikipedia](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 
+[Union Find in 5 minutes - Youtube Potato Coders](https://www.youtube.com/watch?v=ayW5B2W9hfo)
+
+[Connected Components in a Binary Image - Youtube Aaron Becker](https://www.youtube.com/watch?v=ticZclUYy88)
+
 [Apples Photo by Isabella Fischer on Unsplash](https://unsplash.com/fr/photos/cinq-pommes-rouges-sur-une-surface-blanche-uSPjZzYwXO4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
